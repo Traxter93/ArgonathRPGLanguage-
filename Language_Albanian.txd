@@ -29,3 +29,34 @@ MONTH_9      - Shtator
 MONTH_10     - Tetor
 MONTH_11     - Nentor
 MONTH_12     - Dhjetor
+
+// Other
+RES_COMBAT   - Ju nuk mund ta beni kete gje gjate nje lufte.
+RES_NODONE	 - Gabim: Kjo karakteristike eshte jashte sherbimit per shkak te nje gabimi ne kod.
+
+// Economy
+ECON_ATM_TY  - Ju faleminderit qe perdoret bankomatin e mundesuar nga Argonath RPG.
+ECON_ATM_NC  - Gabim: Ju nuk jeni ne nje bankomat.
+ECON_ATM_CIV - Ju nuk keni nje llogari bankare per te perdorur kete pajisje. Me pare ju duhet te jeni nje qytetar legal.
+ECON_ATM_LIM - Gabim: Ju nuk mund te terhiqni shuma me te medha se $100,000 ne nje bankomat. Ju lutem visitoni nje banke.
+ECON_ATM_POS - Gabim: Ju mund te terhiqni vetem nje shume pozitive.
+ECON_ATM_1m  - Gabim: Ju duhet te prisni nje minute perpara se te perdorni nje bankomat per te terhequr para.
+ECON_BNK_N10 - Gabim: Nuk mund te jete me me shume karaktere.
+ECON_BNK_DBT - Banka: Me vjen keq, ju jeni ne borxhe. Llogari juaj eshte ngrire.
+ECON_BNK_ACC - Ai profil nuk ekziston ose ju nuk keni te drejte hyre ne te.
+ECON_BNK_FKT - Ka pasur nje gabim me burimin e llogarise.
+ECON_BNK_LRG - Gabim: Ajo vlere eshte shume e madhe.
+ECON_BNK_MIN - Gabim: Vlera minimale eshte $1.
+ECON_BNK_FUN - Gabim: Ju nuk keni para mjaftueshem per te deposituar shumen.
+ECON_BNK_WNSF- Ju keni fonde te pamjaftueshme per te kryer kete kerkese.
+ECON_BNK_TY  - Ju faleminderit qe vizituat banken e Argonath RPG.
+ECON_BNK_REJ - Transferimi eshte refuzuar, fonder nuk do te transferohen.
+ECON_BNK_PART- Partneri juaj duhet te jete ne banke.
+ECON_BNK_PSLF- Ju nuk mund te hapni nje llogari te perbashket me veten tuaj.
+ECON_BNK_PNO - Ju keni zgjedhur per te mos krijuar nje llogari.
+ECON_BNK_PPNO- Partneri juaj ka refuzuar kerkesen per te hapur kete llogari.
+ECON_BNK_LOAD- Gabim: Bankat tuaja nuk jan ngarguar ende, ju lutem prisni.
+ECON_BNK_BNK - Gabim: Ju duhet te jeni ne nje banke.
+ECON_BNK_CIV - Gabim: Ne nuk lejojme emigrantet te perdorin llogari bankare. Pasaporta eshte e nevojshme per te perdorur banken.
+ECON_BNK_CRI - Gabim: Kjo banke eshte mbyllur si pasoje e krizes financiare.
+ECON_BNK_GRP - Gabim: Ju lutem perdoring /groupbank per te terhequr/deposituar nga nje llogari grupi.
