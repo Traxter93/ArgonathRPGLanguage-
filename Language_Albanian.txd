@@ -3,7 +3,7 @@ LOGIN_WELCM2 - Miresevini ne Argonath RPG RS5!
 LOGIN_MFERR1 - Sherbimi verifikues multi-factor eshte jashte sherbimit. Ju lutem provojeni perseri me vone.
 LOGIN_MFERR2 - Gabim: Kodi eshte i gabuar!
 LOGIN_MF1    - Profili juaj ka autentikimin shum faktoresh te aktivizuar.\n\n Ju lutem fusni kodin me poshte sic tregohet ne applikacionin e Google Authenticator.
-LOGIN_PASSER1- Gabim: Fjalekalimi juaj nuk perputhet! Mbani mend, paswordi permban shkronja kapitale!
+LOGIN_PASSER1- Gabim: Fjalekalimi juaj nuk perputhet! Mbani mend, fjalekalimi juaj permban shkronja kapitale!
 LOGIN_PASSER2- Gabim: Ju keni futur nje Fjalekalim te gabuar.
 LOGIN_PASS2  - Ju lutem provoni perseri fjalekalimin qe ju keni zgjedhur.
 LOGIN_QUIT   - A jeni i sigurt qe doni te dilni nga serveri?
